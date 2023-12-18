@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=shiwanshi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
