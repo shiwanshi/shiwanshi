@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!;Welcome+to+my+Github)](https://git.io/typing-svg)
-I'm **Shiwanshi**, currently pursuing my bachelors in Computer Science and Engineering<br>
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+👋;I'm+Shiwanshi+:))](https://git.io/typing-svg)
+
 
 
 # 💻 Tech Stack:
